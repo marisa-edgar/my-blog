@@ -1,0 +1,67 @@
+{
+  "blogs": [
+    {
+      "title": "Blog1",
+      "body": "...",
+      "author": "ME",
+      "Category": "JavaScript",
+      "id": 1
+    },
+    {
+      "title": "Blog2",
+      "body": "...",
+      "author": "ME",
+      "Category": "TypeScript",
+      "id": 2
+    },
+    {
+      "title": "Blog3",
+      "body": "...",
+      "author": "ME",
+      "Category": "React",
+      "id": 3
+    },
+    {
+      "title": "Blog4",
+      "body": "...",
+      "author": "ME",
+      "Category": "JavaScript",
+      "id": 4
+    },
+    {
+      "title": "Blog5",
+      "body": "...",
+      "author": "ME",
+      "Category": "JavaScript",
+      "id": 5
+    },
+    {
+      "title": "Blog6",
+      "body": "...",
+      "author": "ME",
+      "Category": "TypeScript",
+      "id": 6
+    },
+    {
+      "title": "Blog7",
+      "body": "...",
+      "author": "ME",
+      "Category": "React",
+      "id": 7
+    },
+    {
+      "title": "Blog8",
+      "body": "...",
+      "author": "ME",
+      "Category": "JavaScript",
+      "id": 8
+    },
+    {
+      "title": "Blog9",
+      "body": "...",
+      "author": "ME",
+      "Category": "TypeScript",
+      "id": 9
+    }
+  ]
+}
